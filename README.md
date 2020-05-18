@@ -5,13 +5,15 @@
 We constantly learn new things. This is a repo to share those learnings. TILs are short Markdown documents (a few sentences + example code) explaining concepts, bits of syntax, commands, or tips we've recently learned.
 
 
-### r**ules**
--
--
--
+
+### R**ules**
+- Use GFM (Github Flavored Markdown) to create documents.
+- Create folders by language or technical name.
+- File names are made in English.
 
 
-### Categories
+
+### C**ategories**
 
 * [Devops](#devops)
 * [Docker](#docker)
@@ -33,5 +35,6 @@ We constantly learn new things. This is a repo to share those learnings. TILs ar
 
 ### License
 
-&copy; 2020- KwangJune Choi
+&copy; 2020 KwangJune_Choi
+
 This repository is licensed under the MIT license.
